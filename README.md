@@ -49,6 +49,7 @@ This project builds a foundation to understand these dynamics using simplified n
 
 ## 📄 License
 
-This project is licensed under the MIT License. See `LICENSE` for more details.
+This project is licensed under the MIT License.
 
 ```
+(This is a course work for AS6320 - Acoustic Instabilities)
