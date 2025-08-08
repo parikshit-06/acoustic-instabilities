@@ -4,16 +4,16 @@ This repository explores **acoustic instabilities** in rocket engine combustion 
 
 ---
 
-## 📌 Features
+## Features
 
-- 🧪 Simulates 1D acoustic wave propagation in a combustor  
-- 📊 Plots pressure profiles and modal growth  
-- 🧠 Models feedback loop between pressure and heat release rate  
-- 📉 Identifies stable vs unstable regimes  
+- Simulates 1D acoustic wave propagation in a combustor  
+- Plots pressure profiles and modal growth  
+- Models feedback loop between pressure and heat release rate  
+- Identifies stable vs unstable regimes  
 
 ---
 
-## 🛠 Libraries/Tools Used
+## Libraries/Tools Used
 
 - Python 3  
 - NumPy  
@@ -22,7 +22,7 @@ This repository explores **acoustic instabilities** in rocket engine combustion 
 
 ---
 
-## 📂 Directory Structure
+## Directory Structure
 
 ```
 
@@ -35,7 +35,7 @@ acoustic-instabilities/
 ````
 ---
 
-## 🧠 Background
+## Background
 
 Acoustic instabilities arise when unsteady heat release couples with the natural acoustic modes of the chamber. These feedback loops can grow over time and lead to:
 
@@ -47,7 +47,7 @@ This project builds a foundation to understand these dynamics using simplified n
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
